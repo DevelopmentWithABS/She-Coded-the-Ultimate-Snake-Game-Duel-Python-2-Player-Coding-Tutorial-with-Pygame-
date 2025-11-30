@@ -1,0 +1,2 @@
+# She-Coded-the-Ultimate-Snake-Game-Duel-Python-2-Player-Coding-Tutorial-with-Pygame-
+Build the ultimate 2-player Snake Game with Python and Pygame in this beginner-friendly tutorial. Learn game loops, collisions, controls, sprites, scoring, and real-time movement as you code two snakes battling on one board. Perfect for beginners and portfolio projects. 👉 https://www.youtube.com/@DevelopmentWithABS
