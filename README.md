@@ -68,13 +68,13 @@ python Snake.py
 (Place your images inside `/screenshots` folder)
 
 ### Menu  
-![Menu](screenshots/menu.png)
+![Menu](screenshots/Menu.png)
 
 ### Gameplay  
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshots/Gameplay.png)
 
 ### Game Over  
-![Game Over](screenshots/gameover.png)
+![Game Over](screenshots/GameOver.png)
 
 ---
 
